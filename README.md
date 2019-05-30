@@ -71,7 +71,8 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Blockchain
 - [Blockchain definition](https://en.wikipedia.org/wiki/Blockchain)
-
+- [Bitcoin] - https://bitcoin.org/en/ - An open source peer to peer technology to operate with no central authority or banks. 
+- [Hyperledger] - https://www.hyperledger.org/ - Hyperledger is an open source collaborative effort created to advance cross-industry blockchain technologies. 
 
 ## AI by Andrew NG
 - [Deep learning by Andrew ng ](https://www.deeplearning.ai/)
